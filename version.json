@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "enabled": true,
   "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/1.1.0/Setup.1.1.0.exe",
-  "message": ""
+  "message": "Детализация по сообщениям теперь всегда начинается с новой страницы."
 }
