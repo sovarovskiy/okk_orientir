@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
   "enabled": true,
-  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/2.0.0/Setup.2.0.0.exe",
+  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/2.1.0/OtchetApp_Setup_2.1.0.exe",
   "message": "Детализация по сообщениям теперь всегда начинается с новой страницы."
 }
