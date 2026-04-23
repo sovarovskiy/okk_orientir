@@ -1,22 +1,32 @@
-lead_link;pipeline_20.04.2026;stage_20.04.2026;pipeline_21.04.2026;stage_21.04.2026
-https://alladin116.amocrm.ru/leads/detail/37742637;4. ОГЗ Долгосрочные;6 месяцев;;
-https://alladin116.amocrm.ru/leads/detail/37742667;4. ОГЗ Долгосрочные;12+ месяцев;;
-https://alladin116.amocrm.ru/leads/detail/37742709;1. ОГЗ Квалификация;Контакт установлен;;
-https://alladin116.amocrm.ru/leads/detail/37742733;3. ОГЗ Упрощенное;Назначена дата презентации КП и запрошены материалы;;
-https://alladin116.amocrm.ru/leads/detail/37742753;4. ОГЗ Долгосрочные;6 месяцев;;
-https://alladin116.amocrm.ru/leads/detail/37742803;1. ОГЗ Квалификация;Закрыто и не реализовано;;
-https://alladin116.amocrm.ru/leads/detail/37742837;4. ОГЗ Долгосрочные;6 месяцев;;
-https://alladin116.amocrm.ru/leads/detail/37743047;;;3. ОГЗ Упрощенное;Назначена дата презентации КП и запрошены материалы
-https://alladin116.amocrm.ru/leads/detail/37743091;;;1. ОГЗ Квалификация;Контакт установлен
-https://alladin116.amocrm.ru/leads/detail/37743103;;;1. ОГЗ Квалификация;Закрыто и не реализовано
-https://alladin116.amocrm.ru/leads/detail/37743133;;;1. ОГЗ Квалификация;Закрыто и не реализовано
-https://alladin116.amocrm.ru/leads/detail/37743137;;;3. ОГЗ Упрощенное;Получены материалы по проекту (в тч Договор)
-https://alladin116.amocrm.ru/leads/detail/37743171;;;4. ОГЗ Долгосрочные;9 месяцев
-https://alladin116.amocrm.ru/leads/detail/37743187;;;4. ОГЗ Долгосрочные;6 месяцев
-https://alladin116.amocrm.ru/leads/detail/37743217;;;1. ОГЗ Квалификация;Контакт установлен
-https://alladin116.amocrm.ru/leads/detail/37743259;;;1. ОГЗ Квалификация;Закрыто и не реализовано
-https://alladin116.amocrm.ru/leads/detail/37743267;;;СТУ;ОБРАБОТАНО Коммутатором
-https://alladin116.amocrm.ru/leads/detail/37743277;;;1. ОГЗ Квалификация;Контакт установлен
-https://alladin116.amocrm.ru/leads/detail/37743283;;;1. ОГЗ Квалификация;Контакт установлен
-https://alladin116.amocrm.ru/leads/detail/37743285;;;1. ОГЗ Квалификация;Закрыто и не реализовано
-https://alladin116.amocrm.ru/leads/detail/37743289;;;1. ОГЗ Квалификация;Контакт установлен
+﻿lead_link;pipeline_20.04.2026;stage_20.04.2026;pipeline_21.04.2026;stage_21.04.2026;pipeline_22.04.2026;stage_22.04.2026
+https://alladin116.amocrm.ru/leads/detail/37742637;4. ОГЗ Долгосрочные;6 месяцев;;;;
+https://alladin116.amocrm.ru/leads/detail/37742667;4. ОГЗ Долгосрочные;12+ месяцев;;;;
+https://alladin116.amocrm.ru/leads/detail/37742709;1. ОГЗ Квалификация;Контакт установлен;;;;
+https://alladin116.amocrm.ru/leads/detail/37742733;3. ОГЗ Упрощенное;Назначена дата презентации КП и запрошены материалы;;;;
+https://alladin116.amocrm.ru/leads/detail/37742753;4. ОГЗ Долгосрочные;6 месяцев;;;;
+https://alladin116.amocrm.ru/leads/detail/37742803;1. ОГЗ Квалификация;Закрыто и не реализовано;;;;
+https://alladin116.amocrm.ru/leads/detail/37742837;4. ОГЗ Долгосрочные;6 месяцев;;;;
+https://alladin116.amocrm.ru/leads/detail/37743047;;;3. ОГЗ Упрощенное;Назначена дата презентации КП и запрошены материалы;;
+https://alladin116.amocrm.ru/leads/detail/37743091;;;1. ОГЗ Квалификация;Контакт установлен;;
+https://alladin116.amocrm.ru/leads/detail/37743103;;;1. ОГЗ Квалификация;Закрыто и не реализовано;;
+https://alladin116.amocrm.ru/leads/detail/37743133;;;1. ОГЗ Квалификация;Закрыто и не реализовано;;
+https://alladin116.amocrm.ru/leads/detail/37743137;;;3. ОГЗ Упрощенное;Получены материалы по проекту (в тч Договор);;
+https://alladin116.amocrm.ru/leads/detail/37743171;;;4. ОГЗ Долгосрочные;9 месяцев;;
+https://alladin116.amocrm.ru/leads/detail/37743187;;;4. ОГЗ Долгосрочные;6 месяцев;;
+https://alladin116.amocrm.ru/leads/detail/37743217;;;1. ОГЗ Квалификация;Контакт установлен;;
+https://alladin116.amocrm.ru/leads/detail/37743259;;;1. ОГЗ Квалификация;Закрыто и не реализовано;;
+https://alladin116.amocrm.ru/leads/detail/37743267;;;СТУ;ОБРАБОТАНО Коммутатором;;
+https://alladin116.amocrm.ru/leads/detail/37743277;;;1. ОГЗ Квалификация;Контакт установлен;;
+https://alladin116.amocrm.ru/leads/detail/37743283;;;1. ОГЗ Квалификация;Контакт установлен;;
+https://alladin116.amocrm.ru/leads/detail/37743285;;;1. ОГЗ Квалификация;Закрыто и не реализовано;;
+https://alladin116.amocrm.ru/leads/detail/37743289;;;1. ОГЗ Квалификация;Контакт установлен;;
+https://alladin116.amocrm.ru/leads/detail/37743411;;;;;1. ОГЗ Квалификация;Закрыто и не реализовано
+https://alladin116.amocrm.ru/leads/detail/37743451;;;;;4. ОГЗ Долгосрочные;9 месяцев
+https://alladin116.amocrm.ru/leads/detail/37743455;;;;;1. ОГЗ Квалификация;Контакт установлен
+https://alladin116.amocrm.ru/leads/detail/37743461;;;;;4. ОГЗ Долгосрочные;12+ месяцев
+https://alladin116.amocrm.ru/leads/detail/37743465;;;;;4. ОГЗ Долгосрочные;6 месяцев
+https://alladin116.amocrm.ru/leads/detail/37743517;;;;;1. ОГЗ Квалификация;Закрыто и не реализовано
+https://alladin116.amocrm.ru/leads/detail/37743529;;;;;1. ОГЗ Квалификация;Закрыто и не реализовано
+https://alladin116.amocrm.ru/leads/detail/37743583;;;;;1. ОГЗ Квалификация;Закрыто и не реализовано
+https://alladin116.amocrm.ru/leads/detail/37743597;;;;;1. ОГЗ Квалификация;Контакт установлен
+https://alladin116.amocrm.ru/leads/detail/37743681;;;;;1. ОГЗ Квалификация;Закрыто и не реализовано
