@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
+  "version": "2.2.0",
   "enabled": true,
-  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/2.1.2/OtchetApp_Setup_2.1.2.exe",
-  "message": "Исправлены ошибки при формировании отчета. Изменен визуал программы. DLL явно добавляется в binaries через spec-файл"
+  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v2.2.0/OtchetApp_Setup_2.2.0.exe",
+  "message": ""
 }
