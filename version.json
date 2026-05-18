@@ -1,6 +1,7 @@
 {
-  "version": "2.2.5",
+  "version": "137.24.96",
   "enabled": true,
-  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v2.2.5/OtchetApp_Setup_2.2.5.exe",
+  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v137.24.96/AnalyticalPlatform_Setup_137.24.96.exe",
+  "download_url_mac": "",
   "message": ""
 }
