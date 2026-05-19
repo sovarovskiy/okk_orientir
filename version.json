@@ -3,5 +3,6 @@
   "enabled": true,
   "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v137.24.96/AnalyticalPlatform_Setup_137.24.96.exe",
   "download_url_mac": "",
+  "license_api_url": "https://script.google.com/macros/s/AKfycbxJd3tdUXS9W7ZPow7eTOojJ5hHDl5ewKnStdVDbJ9m9VsHu1CU5EAWUmJkAacQ2x3A/exec",
   "message": ""
 }
