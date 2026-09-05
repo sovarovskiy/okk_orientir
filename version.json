@@ -1,7 +1,7 @@
 {
-  "version": "3.6.41",
+  "version": "3.6.42",
   "enabled": true,
-  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v3.6.41/AnalyticalPlatform_Setup_3.6.41.exe",
+  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v3.6.42/AnalyticalPlatform_Setup_3.6.42.exe",
   "download_url_mac": "",
   "license_api_url": "https://script.google.com/macros/s/AKfycbxJd3tdUXS9W7ZPow7eTOojJ5hHDl5ewKnStdVDbJ9m9VsHu1CU5EAWUmJkAacQ2x3A/exec",
   "message": ""
