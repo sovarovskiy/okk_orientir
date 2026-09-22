@@ -1,8 +1,8 @@
 {
-  "version": "3.6.45",
+  "version": "3.6.46",
   "enabled": true,
-  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v3.6.45/AnalyticalPlatform_Setup_3.6.45.exe",
+  "download_url": "https://github.com/sovarovskiy/okk_orientir/releases/download/v3.6.46/AnalyticalPlatform_Setup_3.6.46.exe",
   "download_url_mac": "",
   "license_api_url": "https://script.google.com/macros/s/AKfycbxJd3tdUXS9W7ZPow7eTOojJ5hHDl5ewKnStdVDbJ9m9VsHu1CU5EAWUmJkAacQ2x3A/exec",
-  "message": "Исправлена автоматическая установка обновлений и закрытие фоновых процессов приложения."
+  "message": "Добавлена ежедневная автоматическая запись информации для конверсий за вчерашний день в 09:00."
 }
